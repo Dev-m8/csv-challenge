@@ -1,0 +1,1 @@
+# sample haskell project to practice csv parsing 
